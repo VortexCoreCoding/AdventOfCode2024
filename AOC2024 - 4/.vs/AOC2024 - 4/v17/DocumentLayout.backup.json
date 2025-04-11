@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7290D2B1-B219-49BA-B9EE-CB7524FEF57B}|AOC2024 - 4\\AOC2024 - 4.vcxproj|C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290D2B1-B219-49BA-B9EE-CB7524FEF57B}|AOC2024 - 4\\AOC2024 - 4.vcxproj|solutionrelative:AOC2024 - 4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290D2B1-B219-49BA-B9EE-CB7524FEF57B}|AOC2024 - 4\\AOC2024 - 4.vcxproj|C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290D2B1-B219-49BA-B9EE-CB7524FEF57B}|AOC2024 - 4\\AOC2024 - 4.vcxproj|solutionrelative:AOC2024 - 4\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290D2B1-B219-49BA-B9EE-CB7524FEF57B}|AOC2024 - 4\\AOC2024 - 4.vcxproj|C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7290D2B1-B219-49BA-B9EE-CB7524FEF57B}|AOC2024 - 4\\AOC2024 - 4.vcxproj|solutionrelative:AOC2024 - 4\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290D2B1-B219-49BA-B9EE-CB7524FEF57B}|AOC2024 - 4\\AOC2024 - 4.vcxproj|C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7290D2B1-B219-49BA-B9EE-CB7524FEF57B}|AOC2024 - 4\\AOC2024 - 4.vcxproj|solutionrelative:AOC2024 - 4\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\input.txt",
+              "RelativeDocumentMoniker": "AOC2024 - 4\\input.txt",
+              "ToolTip": "C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\input.txt",
+              "RelativeToolTip": "AOC2024 - 4\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T04:57:50.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "functions.h",
+              "DocumentMoniker": "C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\functions.h",
+              "RelativeDocumentMoniker": "AOC2024 - 4\\functions.h",
+              "ToolTip": "C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\functions.h",
+              "RelativeToolTip": "AOC2024 - 4\\functions.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T04:57:36.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "functions.c",
+              "DocumentMoniker": "C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\functions.c",
+              "RelativeDocumentMoniker": "AOC2024 - 4\\functions.c",
+              "ToolTip": "C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\functions.c",
+              "RelativeToolTip": "AOC2024 - 4\\functions.c",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-04T04:57:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\main.c",
+              "RelativeDocumentMoniker": "AOC2024 - 4\\main.c",
+              "ToolTip": "C:\\Users\\cosmi\\Documents\\School\\AdventOfCode\\AOC2024 - 4\\AOC2024 - 4\\main.c",
+              "RelativeToolTip": "AOC2024 - 4\\main.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-04T04:57:30.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
